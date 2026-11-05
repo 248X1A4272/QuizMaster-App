@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster – Interactive Android Quiz App",
+  "description": "Interactive Android Quiz Application with category browser, OpenTDB public trivia API, custom question creation, local storage persistence, question bank details, and full Flutter/Dart production codebase with widget tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
